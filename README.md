@@ -81,6 +81,8 @@ Commit your changes
 
 Open a pull request
 
+Avoid pushing errorsS
+
 ## License
 
 This project is licensed under the MIT License.
