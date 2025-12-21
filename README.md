@@ -56,7 +56,7 @@ The app will be running at: http://localhost:5173/
 ## Build for Production
 npm run build
 
-Output will be generated inside the dist
+Output will be generated inside 
 **npm run build**
 vercel deploy --prod
 Add screenshots here later: UI, ticket screen, queue display, etc.
