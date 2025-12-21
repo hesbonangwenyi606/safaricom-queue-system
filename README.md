@@ -74,7 +74,6 @@ Add screenshots here later: UI, ticket screen, queue display, etc.
 Contributions are welcome!
 
 Fork the repo
-
 Create a new branch
 Commit your changes
 Open a pull request
