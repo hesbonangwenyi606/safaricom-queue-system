@@ -71,7 +71,7 @@ Add screenshots here later: UI, ticket screen, queue display, etc.
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are wel
 Fork the repo
 Create a new branch
 Commit your changes
