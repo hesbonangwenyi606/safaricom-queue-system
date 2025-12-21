@@ -1,6 +1,6 @@
 ### Safaricom Queue System
 A modern web-based queue management system inspired by Safaricom retail shops. The system allows customers to generate queue tickets and view their position in real-time, while staff can manage and serve customers efficiently.
- Live Demo: https://safaricom-queue-system-6awf.vercel.app/
+ Live Demo: https://safaricom-queue-
 
 **Features**
 ✅ Generate queue ticket number instantly
