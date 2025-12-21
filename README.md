@@ -58,7 +58,7 @@ npm run build
 
 Output will be generated inside the dist/ folder.
 
-## Deployme
+## Depl
 **npm run build**
 vercel deploy --prod
 Add screenshots here later: UI, ticket screen, queue display, etc.
