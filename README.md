@@ -37,7 +37,7 @@ Vercel	Deployment
 
 **Installation & Setup**
 # Clone the repository
-$ git clone https://github.com/hesbonangwenyi606/safaricom-queue-system.git
+git clone https://github.com/hesbonangwenyi606/safaricom-queue-system.git
 
 
 ## Enter project directory
