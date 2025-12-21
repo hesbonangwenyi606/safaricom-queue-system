@@ -66,7 +66,6 @@ To deploy manually:
 
 **npm run build**
 vercel deploy --prod
-
 Add screenshots here later: UI, ticket screen, queue display, etc.
 
 ## Contributing
