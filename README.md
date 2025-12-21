@@ -60,7 +60,7 @@ Output will be generated inside the dist/ folder.
 
 ## Deployment
 
-This project is depl
+This project 
 
 **npm run build**
 vercel deploy --prod
