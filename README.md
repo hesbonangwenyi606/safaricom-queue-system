@@ -56,9 +56,7 @@ Output will be generated inside
 
 **npm run build**
 vercel deploy --prod
-Add screenshots here later: UI, ticket screen, queue display, etc.
-
-## Contri
+Add screenshots here later: UI, ticket screen, queue 
 
 ## License
 This project is licensed under the MIT License.
