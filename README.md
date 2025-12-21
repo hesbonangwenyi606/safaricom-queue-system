@@ -59,8 +59,7 @@ vercel deploy --prod
 Add screenshots here later: UI, ticket screen, queue display, etc.
 
 ## Contributing
-Fork the repo
-Crea
+Fork 
 
 ## License
 This project is licensed under the MIT License.
