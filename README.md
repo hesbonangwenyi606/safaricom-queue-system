@@ -40,7 +40,7 @@ Vercel	Deployment
 $ git clone https://github.com/hesbonangwenyi606/safaricom-queue-system.git
 
 
-# Enter project directory
+## Enter project directory
 **cd safaricom-queue-system**
 
 
