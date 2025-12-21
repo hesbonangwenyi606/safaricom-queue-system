@@ -60,8 +60,7 @@ Add screenshots here later: UI, ticket screen, queue display, etc.
 
 ## Contributing
 Fork the repo
-Create a new branch
-Commit 
+Create a new br
 
 ## License
 This project is licensed under the MIT License.
