@@ -45,7 +45,7 @@ $ cd safaricom-queue-system
 
 
 # Install dependencies
-$ npm install
+**npm install**
 **Start development server**
 
 **npm run dev**
