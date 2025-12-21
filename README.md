@@ -15,7 +15,7 @@ React + TypeScript	Frontend UI & logic
 Vite Development build tool
 Tailwind CSS	Styling
 ESLint	Code quality
-Vercel	Depl
+Verc
 
 ## Project Structure
 ├── public/             # Static assets
