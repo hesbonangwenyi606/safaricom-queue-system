@@ -62,7 +62,7 @@ Output will be generated inside the dist/ folder.
 
 This project is deployed on Vercel.
 
-To deploy manually:
+To deploy man
 
 **npm run build**
 vercel deploy --prod
