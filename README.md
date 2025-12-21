@@ -4,7 +4,6 @@ A modern web-based queue management system inspired by Safaricom retail shops. T
  Live Demo: https://safaricom-queue-system-6awf.vercel.app/
 
 **Features**
-
 ✅ Generate queue ticket number instantly
 ✅ Real‑time queue updates
 ✅ Minimal and responsive UI (mobile & desktop)
