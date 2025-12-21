@@ -56,7 +56,7 @@ Output will be generated inside
 
 **npm run build**
 vercel deploy --prod
-Add screenshots here later: UI, 
+Add screenshots 
 
 ## License
 This project is licensed under the MIT License.
