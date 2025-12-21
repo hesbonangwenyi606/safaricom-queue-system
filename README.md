@@ -41,7 +41,7 @@ $ git clone https://github.com/hesbonangwenyi606/safaricom-queue-system.git
 
 
 # Enter project directory
-**cd safaricom-queue-system
+**cd safaricom-queue-system**
 
 
 # Install dependencies
