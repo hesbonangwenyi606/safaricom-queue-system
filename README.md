@@ -58,8 +58,7 @@ Output will be generated inside
 vercel deploy --prod
 Add screenshots here later: UI, ticket screen, queue display, etc.
 
-## Contributing
-Fork 
+## Contri
 
 ## License
 This project is licensed under the MIT License.
