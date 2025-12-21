@@ -46,8 +46,6 @@ $ cd safaricom-queue-system
 
 # Install dependencies
 $ npm install   # or yarn install or pnpm install
-
-
 # Start development server
 $ npm run dev
 The app will be running at: http://localhost:5173/
