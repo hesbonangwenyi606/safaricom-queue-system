@@ -52,9 +52,6 @@ The app will be running at: http://localhost:5173/
 ## Build for Production
 npm run build
 
-Output will be generated inside 
-
-
 ## License
 This project is licensed under the MIT License.
 See the full license here: LICENSE
